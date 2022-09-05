@@ -16,7 +16,7 @@ jobs:
 
        - name: Build and push image to docker hub
          uses: docker/build-push-action@v1.1.0
-         witch:
+         with:
             context: ./werbserver      
             username: ${{ secrets.DOCKER_USERNAME }}
             password: ${{ secrets.DOCKER_PASSWORD }}
