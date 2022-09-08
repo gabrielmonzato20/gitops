@@ -7,4 +7,4 @@ resources:
 images:
 - name: goserver
   newName: gabrielmonzato/gitops
-  newTag: 7c3c2331f4ec7c728cd1200af5840006adbfcbb0
+  newTag: 71cef2b8e8f87f1ae2589bff28d4560ab6631683
